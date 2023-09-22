@@ -1,7 +1,7 @@
 # DocX Android Scanner
 ## Overview
 
-The Document Scanner App with OpenCV is a mobile application developed using Xamarin for Android that transforms your smartphone into a powerful document scanner. With this app, you can easily capture, enhance, and store documents, receipts, or any printed material on the go.
+The Document Scanner App with OpenCV is a mobile application developed using Xamarin for Android that can let you implement document scanner in your app. With this app, you can easily capture, enhance, and store documents, receipts, or any printed material on the go.
 
 ## Features
 
