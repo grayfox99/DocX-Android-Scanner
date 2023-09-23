@@ -37,8 +37,4 @@ Contributions are welcome! If you have ideas for improvements, bug fixes, or new
 
 This app is open-source and available under the [MIT License](LICENSE).
 
-## Contact
 
-If you have any questions or need assistance, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
-
-Happy Scanning!
