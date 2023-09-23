@@ -7,7 +7,7 @@ The Document Scanner App with OpenCV is a mobile application developed using Xam
 
 - **Document Capture**: Quickly scan documents, receipts, and more using your smartphone's camera.
 - **OpenCV Integration**: Leverages the power of OpenCV for image processing and enhancement.
-- **Save and Share**: Save scanned documents as PDF or images, and share them with others.
+- **AutoCrop**: Bounding box is laid directly over the full resolution image, giving you an auto-cropped document.
 
 ## Installation
 
