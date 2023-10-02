@@ -23,6 +23,8 @@ The Document Scanner App with OpenCV is a mobile application developed using Xam
 4. Save the scanned document as a JPEG using the check button.
 5. Share or manage your scanned documents in the gallery.
 
+   NOTE: Code shrinkers can remove native dependencies. Be very careful when using them as this can cause unhandled exceptions.
+
 ## Requirements
 
 - Android device running Android OS X.X or later.
